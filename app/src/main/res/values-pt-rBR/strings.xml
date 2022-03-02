@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aprendendo_Android_Nativo</string>
+    <string name="result">Resultado</string>
+    <string name="type_your_name">Digite o Seu Nome</string>
+    <string name="send">Enviar</string>
+    <string name="hello_name">Olá, %1$s!</string>
+</resources>

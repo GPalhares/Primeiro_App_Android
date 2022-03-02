@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aprendendo_Android_Nativo</string>
+    <string name="result">Result</string>
+    <string name="type_your_name">Type Your Name</string>
+    <string name="send">Send</string>
+        <string name="hello_name">Hello, %1$s!</string>
+</resources>
